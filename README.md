@@ -1,4 +1,4 @@
-![npm-publish](https://github.com/luiznickel/card/workflows/npm-publish/badge.svg)
+![luiznickel -> card](https://github.com/vaporwavie/card/workflows/luiznickel%20-%3E%20publish%20to%20npm/badge.svg)
 
 My own npm business card.
 
