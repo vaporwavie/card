@@ -1,14 +1,14 @@
 {
-  "name": "joselito",
+  "name": "luiznickel",
   "version": "1.1.2",
-  "description": "A personal card for Joselito (@breakzplatform)",
+  "description": "A personal card for Luiz Nickel (@vaporwavie)",
   "main": "index.js",
   "bin": {
-    "joselito": "./bin/card.js"
+    "luiznickel": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/breakzplatform/card.git"
+    "url": "git+https://github.com/vaporwavie/card.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -25,8 +25,8 @@
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/breakzplatform/card/issues"
+    "url": "https://github.com/vaporwavie/card/issues"
   },
-  "homepage": "https://github.com/breakzplatform/card#readme",
-  "author": "Joselito <hello@joseli.to> (http://joseli.to)"
+  "homepage": "https://github.com/vaporwavie/card#readme",
+  "author": "Forked from: Joselito <hello@joseli.to> (http://joseli.to)"
 }
