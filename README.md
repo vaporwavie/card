@@ -1,11 +1,13 @@
-<img src="https://joseli.to/logo-white.svg" width="224">
-
-![npm-publish](https://github.com/breakzplatform/card/workflows/npm-publish/badge.svg)
+![npm-publish](https://github.com/luiznickel/card/workflows/npm-publish/badge.svg)
 
 My own npm business card.
 
 # Usage
+
 Via npx:
+
 ```
-npx joselito
+npx luiznickel
 ```
+
+Forked from: https://github.com/breakzplatform/card :D
